@@ -1,62 +1,96 @@
 
-<h1 align="center">Omar Hassaan</h1>
+<div align="center">
 
-<h3 align="center">
-  <span>Full-Stack Web Developer</span>
-</h3>
+<a href="https://postimg.cc/t7MS1KQp">
+<img src="https://i.postimg.cc/t7MS1KQp/banner.png" width="100%" alt="Nothing is everything"/>
+</a>
 
-<p align="center">
-  Building modern web applications, exploring backend architecture, and turning ideas into real products.
-</p>
+<br/>
 
-<p align="center">
-  🇪🇬 Egypt · Open to Collaboration
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Products" />
 
----
+<br/>
 
-## 🛠️ TECH STACK
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://omar-dev.site)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@OmarDev7720)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/omar-mohammed-4a011b372)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-</p>
+</div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## `01` / ABOUT ME
 
-### 🛒 Shosatk
+```yaml
+name: Omar Hassaan
+role: Full-Stack Web Developer
+location: Egypt
+focus:
+  - Frontend Development
+  - Backend Development
+  - Modern Web Applications
+  - Continuous Learning
+```
+
+I enjoy building modern web applications, exploring backend architecture, and transforming ideas into practical digital experiences.
+
+---
+
+## `02` / TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github&theme=dark" />
+
+</div>
+
+---
+
+## `03` / SELECTED PROJECTS
+
+### 🛒 SHOSATK
 E-commerce web application.
 
-### 🏫 Nursery Website
-A website designed for nursery management and presentation.
+### 🏫 NURSERY WEBSITE
+A website built for nursery services and presentation.
 
-### 💻 Web Development Projects
-Building modern web applications and exploring full-stack development.
-
----
-
-## 📊 GITHUB STATISTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarhassaan772012-ship-it&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhassaan772012-ship-it&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-</p>
+[Explore Nursery Website ↗](https://nursery-one-iota.vercel.app/)
 
 ---
 
-<p align="center">
-  <b>BUILD · LEARN · IMPROVE</b>
-</p>
+## `04` / GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=omarhassaan772012-ship-it&show_icons=true&theme=github_dark&hide_border=true&bg_color=080B14&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhassaan772012-ship-it&layout=compact&theme=github_dark&hide_border=true&bg_color=080B14&title_color=58A6FF&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarhassaan772012-ship-it&theme=github-dark-blue&hide_border=true&background=080B14&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+## `05` / CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omarhassaan772012-ship-it&bg_color=080B14&color=58A6FF&line=4F46E5&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILD. CREATE. INNOVATE.
+
+<sub>Always learning. Always building.</sub>
+
+</div>
+
