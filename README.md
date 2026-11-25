@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B3D&height=60&section=header&text=01%20%2F%20ABOUT%20ME&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=4&fontAlignY=62" />
 
-yaml
+```yaml
 name: Omar Hassaan
 role: Full-Stack Web Developer
 location: Egypt
@@ -25,6 +25,7 @@ focus:
   - Backend Development
   - Modern Web Applications
   - Continuous Learning
+```
 I enjoy building modern web applications, exploring backend architecture, and transforming ideas into practical digital experiences.
 
 <br/>
