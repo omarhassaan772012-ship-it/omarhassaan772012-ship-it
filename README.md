@@ -3,19 +3,36 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=FULL-STACK+WEB+DEVELOPER;BUILDING+DIGITAL+EXPERIENCES;TURNING+IDEAS+INTO+PRODUCTS" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://omar-dev.site)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@OmarDev7720)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/omar-mohammed-4a011b372)
+<a href="https://omar-dev.site">
+<img src="https://img.shields.io/badge/PORTFOLIO-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=111111&labelColor=FFD43B" />
+</a>
+<a href="https://www.youtube.com/@OmarDev7720">
+<img src="https://img.shields.io/badge/YOUTUBE-FF633E?style=for-the-badge&logo=youtube&logoColor=111111&labelColor=FF633E" />
+</a>
+<a href="https://www.linkedin.com/in/omar-mohammed-4a011b372">
+<img src="https://img.shields.io/badge/LINKEDIN-8BC5FF?style=for-the-badge&logo=linkedin&logoColor=111111&labelColor=8BC5FF" />
+</a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## `01` / ABOUT ME
+<table>
+<tr>
+<td bgcolor="#FFD43B">
+
+## 01 / ABOUT ME
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFF9ED">
 
 ```yaml
 name: Omar Hassaan
@@ -30,61 +47,132 @@ focus:
 
 I enjoy building modern web applications, exploring backend architecture, and transforming ideas into practical digital experiences.
 
+</td>
+</tr>
+</table>
+
 ---
 
-## `02` / TECH STACK
+<table>
+<tr>
+<td bgcolor="#FF633E">
+
+## 02 / TECH STACK
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFF9ED">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github&theme=light" />
 
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
 
-## `03` / SELECTED PROJECTS
+<table>
+<tr>
+<td bgcolor="#FFD43B">
 
-### Stuff Dashboard
+## 03 / SELECTED PROJECTS
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFF9ED">
+
+### 🟧 Stuff Dashboard
+
 A control panel that helps HR easily access employee information.
 
-### Exam Website 
+</td>
+</tr>
+<tr>
+<td bgcolor="#FF633E">
+
+### 🟨 Exam Website
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFF9ED">
+
 An online exam site serving 32 schools in Saudi Arabia helps determine students' levels.
 
+</td>
+</tr>
+</table>
+
 ---
 
-## `04` / GITHUB ANALYTICS
+<table>
+<tr>
+<td bgcolor="#FF633E">
+
+## 04 / GITHUB ANALYTICS
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFF9ED">
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=omarhassaan772012-ship-it&show_icons=true&theme=github_dark&hide_border=true&bg_color=080B14&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=omarhassaan772012-ship-it&show_icons=true&hide_border=true&bg_color=FFF9ED&title_color=111111&icon_color=FF633E&text_color=333333" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhassaan772012-ship-it&layout=compact&theme=github_dark&hide_border=true&bg_color=080B14&title_color=58A6FF&text_color=C9D1D9" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhassaan772012-ship-it&layout=compact&hide_border=true&bg_color=FFF9ED&title_color=111111&text_color=333333" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarhassaan772012-ship-it&theme=github-dark-blue&hide_border=true&background=080B14&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarhassaan772012-ship-it&hide_border=true&background=FFF9ED&ring=FF633E&fire=FF633E&currStreakLabel=111111&sideLabels=111111&currStreakNum=111111&sideNums=111111&dates=555555" />
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `05` / CONTRIBUTION GRAPH
+<table>
+<tr>
+<td bgcolor="#FFD43B">
+
+## 05 / CONTRIBUTION GRAPH
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFF9ED">
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omarhassaan772012-ship-it&bg_color=080B14&color=58A6FF&line=4F46E5&point=FFFFFF&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omarhassaan772012-ship-it&bg_color=FFF9ED&color=111111&line=FF633E&point=111111&area=true&hide_border=true" />
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### BUILD. CREATE. INNOVATE.
+<img src="https://img.shields.io/badge/BUILD-111111?style=for-the-badge&labelColor=111111&color=FFD43B" />
+<img src="https://img.shields.io/badge/CREATE-111111?style=for-the-badge&labelColor=111111&color=FF633E" />
+<img src="https://img.shields.io/badge/INNOVATE-111111?style=for-the-badge&labelColor=111111&color=8BC5FF" />
 
-<sub>Always learning. Always building.</sub>
+<br/><br/>
+
+**Always learning. Always building.**
 
 </div>
-
