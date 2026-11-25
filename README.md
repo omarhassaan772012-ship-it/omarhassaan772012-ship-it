@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B3D&height=60&section=header&text=01%20%2F%20ABOUT%20ME&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=4&fontAlignY=62" />
 
-```yaml
+yaml
 name: Omar Hassaan
 role: Full-Stack Web Developer
 location: Egypt
@@ -85,4 +85,3 @@ Project
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD93D&height=90&section=footer&stroke=111111&strokeWidth=6" />
 </div>
-```
