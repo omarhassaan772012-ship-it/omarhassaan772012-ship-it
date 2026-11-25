@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B3D&height=60&section=header&text=01%20%2F%20ABOUT%20ME&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=4&fontAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B3D&height=60&section=header&text=01%20%2F%20ABOUT%20ME&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=50&fontAlignY=60" />
 
 ```yaml
 name: Omar Hassaan
@@ -29,15 +29,25 @@ focus:
 I enjoy building modern web applications, exploring backend architecture, and transforming ideas into practical digital experiences.
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6EA8FF&height=60&section=header&text=02%20%2F%20TECH%20STACK&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=4&fontAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6EA8FF&height=60&section=header&text=02%20%2F%20TECH%20STACK&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=50&fontAlignY=60" />
 <div align="center">
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github&theme=light" />
+<img src="https://img.shields.io/badge/-HTML5-111111?style=flat-square&logo=html5&logoColor=111111&labelColor=FF6B3D" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-111111?style=flat-square&logo=css3&logoColor=111111&labelColor=6EA8FF" alt="CSS3" />
+<img src="https://img.shields.io/badge/-JavaScript-111111?style=flat-square&logo=javascript&logoColor=111111&labelColor=FFD93D" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-TypeScript-111111?style=flat-square&logo=typescript&logoColor=111111&labelColor=6EA8FF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-React-111111?style=flat-square&logo=react&logoColor=111111&labelColor=FF9ECD" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=111111&labelColor=FFFBEA" alt="Next.js" />
+<img src="https://img.shields.io/badge/-Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=111111&labelColor=FF6B3D" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Express-111111?style=flat-square&logo=express&logoColor=111111&labelColor=6EA8FF" alt="Express" />
+<img src="https://img.shields.io/badge/-MongoDB-111111?style=flat-square&logo=mongodb&logoColor=111111&labelColor=FF9ECD" alt="MongoDB" />
+<img src="https://img.shields.io/badge/-Git-111111?style=flat-square&logo=git&logoColor=111111&labelColor=FFD93D" alt="Git" />
+<img src="https://img.shields.io/badge/-GitHub-111111?style=flat-square&logo=github&logoColor=111111&labelColor=FFFBEA" alt="GitHub" />
 
 <br/><br/>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF9ECD&height=60&section=header&text=03%20%2F%20SELECTED%20PROJECTS&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=4&fontAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF9ECD&height=60&section=header&text=03%20%2F%20SELECTED%20PROJECTS&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=50&fontAlignY=60" />
 
 🟨 Stuff Dashboard
 
@@ -52,7 +62,7 @@ An online exam platform serving 32 schools in Saudi Arabia to determine students
 Project
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD93D&height=60&section=header&text=04%20%2F%20GITHUB%20ANALYTICS&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=4&fontAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD93D&height=60&section=header&text=04%20%2F%20GITHUB%20ANALYTICS&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=50&fontAlignY=60" />
 <div align="center">
 <br/>
 <img width="95%" src="https://github-readme-stats.vercel.app/api?username=omarhassaan772012-ship-it&show_icons=true&theme=default&hide_border=false&border_color=111111&border_radius=0&bg_color=FFFBEA&title_color=111111&icon_color=FF6B3D&text_color=111111" />
@@ -66,7 +76,7 @@ Project
 <img width="95%" src="https://streak-stats.demolab.com/?user=omarhassaan772012-ship-it&background=FFFBEA&ring=FF6B3D&fire=FF6B3D&currStreakLabel=111111&sideLabels=111111&dates=111111&currStreakNum=111111&sideNums=111111" />
 </div>
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B3D&height=60&section=header&text=05%20%2F%20CONTRIBUTION%20GRAPH&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=4&fontAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B3D&height=60&section=header&text=05%20%2F%20CONTRIBUTION%20GRAPH&fontSize=26&fontColor=111111&stroke=111111&strokeWidth=4&fontAlign=50&fontAlignY=60" />
 <div align="center">
 <br/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omarhassaan772012-ship-it&bg_color=FFFBEA&color=111111&line=FF6B3D&point=111111&area=true&area_color=FFD93D&hide_border=false" />
