@@ -44,13 +44,11 @@ I enjoy building modern web applications, exploring backend architecture, and tr
 
 ## `03` / SELECTED PROJECTS
 
-### 🛒 SHOSATK
-E-commerce web application.
+### Stuff Dashboard
+A control panel that helps HR easily access employee information.
 
-### 🏫 NURSERY WEBSITE
-A website built for nursery services and presentation.
-
-[Explore Nursery Website ↗](https://nursery-one-iota.vercel.app/)
+### Exam Website 
+An online exam site serving 32 schools in Saudi Arabia helps determine students' levels.
 
 ---
 
